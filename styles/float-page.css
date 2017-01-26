@@ -11,13 +11,20 @@ main {
   margin-right: auto;
 }
 
+.ne1, .ne2 {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
 .ne1 {
 	width: 200px;
 	float: left;
+	margin-right: 15px;
 }
 
 .ne2 {
 	width: 200px;
 	float: right;
+	margin-left: 15px; 
 
 }
