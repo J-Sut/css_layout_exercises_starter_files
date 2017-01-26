@@ -10,3 +10,17 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+.ne1 {
+	width: 200px;
+	float: left;
+}
+
+.ne2 {
+	width: 200px;
+	float: right;
+}
+
+p {
+	color: blue;
+}
